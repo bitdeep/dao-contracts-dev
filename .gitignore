@@ -1,0 +1,11 @@
+.vscode/
+.env
+.idea
+# Local Compiled files
+bin/
+artifacts/
+.secret
+dev.txt
+build
+node_modules
+.env
